@@ -1,6 +1,6 @@
 # Structured-Data-Assignment
 Problem -1 
-Description: The dataset contains a comprehensive collection of electronic
+Description: The dataset contains a comprehensive collection of electronic.
 health records belonging to patients who have been diagnosed with a specific disease.
  Result:
 * If we create columns in date wise , it will give the more accurate predictions. 
